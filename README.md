@@ -23,26 +23,26 @@ MYDESIGN.MD makes that output available for **any public URL, on demand**. Same 
 ## Extracted design systems
 
 ### AI & Developer Platforms
-- [Anthropic](./examples/anthropic.md) — anthropic.com
-- [Cursor](./examples/cursor.md) — cursor.com
-- [ElevenLabs](./examples/elevenlabs.md) — elevenlabs.io
-- [Hume AI](./examples/hume-ai.md) — hume.ai
-- [Microsoft AI](./examples/microsoft-ai.md) — microsoft.ai
-- [Modal](./examples/modal.md) — modal.com
-- [Replit](./examples/replit.md) — replit.com
-- [Supabase](./examples/supabase.md) — supabase.com
+- [Anthropic](https://www.mydesignmd.com/jobs/job_6543b2416f2046398b2a357b) — anthropic.com
+- [Cursor](https://www.mydesignmd.com/jobs/job_53d7578655af4127b9e4a54f) — cursor.com
+- [ElevenLabs](https://www.mydesignmd.com/jobs/job_f579f87c86644a0d9c3530d2) — elevenlabs.io
+- [Hume AI](https://www.mydesignmd.com/jobs/job_cd37d56506f94870bc6f2dce) — hume.ai
+- [Microsoft AI](https://www.mydesignmd.com/jobs/job_e21a46b910db45e89f281d22) — microsoft.ai
+- [Modal](https://www.mydesignmd.com/jobs/job_57fabf7100324ea599996473) — modal.com
+- [Replit](https://www.mydesignmd.com/jobs/job_75f8c5d6c4724052903633c6) — replit.com
+- [Supabase](https://www.mydesignmd.com/jobs/job_40fd96b297b3422aa38ca9e0) — supabase.com
 
 ### Crypto & Web3
-- [Caldera](./examples/caldera.md) — caldera.xyz
+- [Caldera](https://www.mydesignmd.com/jobs/job_93f19505088b42a483bd4d75) — caldera.xyz
 
 ### Health & Fitness
-- [Whoop](./examples/whoop.md) — whoop.com
+- [Whoop](https://www.mydesignmd.com/jobs/job_09c4e9ccc74146598ba28995) — whoop.com
 
 ### Lifestyle & Retail
-- [Le Labo Fragrances](./examples/le-labo.md) — lelabofragrances.com
+- [Le Labo Fragrances](https://www.mydesignmd.com/jobs/job_43af7b13d494421bbf55de5f) — lelabofragrances.com
 
 ### Media & Publishing
-- [Medium](./examples/medium.md) — medium.com
+- [Medium](https://www.mydesignmd.com/jobs/job_058aaa377e7f434dbb400cb0) — medium.com
 
 ---
 
