@@ -110,6 +110,7 @@ Full setup guide → [design-tokens-for-ai-coding-agents](https://www.mydesignmd
 
 ## Related
 
+- [API Reference](./api-reference.md) — full endpoint docs, authentication, code examples
 - [What is a DESIGN.md file?](https://www.mydesignmd.com/what-is-design-md)
 - [How to extract a design system from any website](https://www.mydesignmd.com/how-to-extract-a-design-system-from-any-website)
 - [Design tokens for AI coding agents](https://www.mydesignmd.com/design-tokens-for-ai-coding-agents)
