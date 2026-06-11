@@ -70,12 +70,12 @@ Any public URL → full design system package in a few minutes.
 
 **CLI:**
 ```bash
-npx mydesignmd extract https://your-site.com
+npx mydesignmd generate https://your-site.com --out DESIGN.md
 ```
 
 **API:**
 ```bash
-curl -X POST https://api.mydesignmd.com/v1/extract \
+curl -X POST https://api.mydesignmd.com/v1/design-jobs \
   -H "Authorization: Bearer YOUR_KEY" \
   -H "Content-Type: application/json" \
   -d '{"url": "https://your-site.com"}'
