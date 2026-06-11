@@ -99,6 +99,19 @@ Full setup guide → [design-tokens-for-ai-coding-agents](https://www.mydesignmd
 
 ---
 
+## For developers
+
+Build on top of MYDESIGN.MD via REST API, CLI, or SDK.
+
+| | |
+|---|---|
+| 📖 [API Reference](./api-reference.md) | Endpoints, authentication, rate limits, code examples |
+| 🔑 Get an API key | Sign in at [mydesignmd.com](https://www.mydesignmd.com) → Settings → API Keys |
+| 📦 CLI | `npx mydesignmd generate <url> --out DESIGN.md` |
+| 🛠 SDK | TypeScript and Python SDKs available — see [API Reference](./api-reference.md) |
+
+---
+
 ## Honest limitations
 
 - **Login-gated sites** — the extractor sees what an unauthenticated browser sees
@@ -110,7 +123,6 @@ Full setup guide → [design-tokens-for-ai-coding-agents](https://www.mydesignmd
 
 ## Related
 
-- [API Reference](./api-reference.md) — full endpoint docs, authentication, code examples
 - [What is a DESIGN.md file?](https://www.mydesignmd.com/what-is-design-md)
 - [How to extract a design system from any website](https://www.mydesignmd.com/how-to-extract-a-design-system-from-any-website)
 - [Design tokens for AI coding agents](https://www.mydesignmd.com/design-tokens-for-ai-coding-agents)
